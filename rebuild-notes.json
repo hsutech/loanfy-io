@@ -1,0 +1,25 @@
+{
+  "domain": "loanfy.io",
+  "source": "Archive snapshot had app shell only and parked-domain page; rebuilt from scratch as an original lead-generation finance site.",
+  "author": "Aitor Tilla",
+  "pages": [
+    "/",
+    "/how-it-works/",
+    "/loan-options/",
+    "/personal-loans/",
+    "/debt-consolidation-loans/",
+    "/emergency-loans/",
+    "/installment-loans/",
+    "/bad-credit-loans/",
+    "/home-improvement-loans/",
+    "/about/",
+    "/contact/",
+    "/check-offers/",
+    "/blog/",
+    "/blog/how-to-compare-loan-offers-without-focusing-only-on-rate/",
+    "/blog/what-makes-a-loan-application-feel-stronger-to-a-lender/",
+    "/blog/when-a-debt-consolidation-loan-actually-helps-and-when-it-doesnt/",
+    "/privacy-policy/",
+    "/terms-of-service/"
+  ]
+}
