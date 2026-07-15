@@ -11,8 +11,10 @@
       "slug": "best-personal-loan-alternatives",
       "title": "Best Personal Loan Alternatives: 10 Options to Compare",
       "url": "https://loanfy.io/blog/best-personal-loan-alternatives/",
-      "status": "pending_deploy_verification",
+      "status": "published",
       "publicationDate": "2026-07-15",
+      "commit": "925ae42",
+      "verifiedAt": "2026-07-15",
       "wordCount": 2352,
       "serpTarget": "Google US",
       "serpObservations": {
@@ -52,7 +54,8 @@
         "build": "passed: npm run build",
         "editorialSeoReview": "passed: intent, H1, metadata, canonical, schema, links, image, sitemap, blog index, sensitive finance claims",
         "desktopRender": "passed: local browser, H1/canonical/image/no overflow",
-        "mobileRender": "passed: 390x844 viewport, image loaded, no overflow"
+        "mobileRender": "passed: 390x844 viewport, image loaded, no overflow",
+        "production": "passed: HTTP 200, expected H1, canonical, blog index, sitemap and image on https://loanfy.io/blog/best-personal-loan-alternatives/"
       }
     }
   ]
