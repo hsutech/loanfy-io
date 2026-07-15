@@ -1,0 +1,59 @@
+{
+  "domain": "loanfy.io",
+  "company": "Loanfy",
+  "market": "USA",
+  "language": "English",
+  "lastRun": "2026-07-15",
+  "items": [
+    {
+      "keyword": "best personal loan alternatives",
+      "priority": "High",
+      "slug": "best-personal-loan-alternatives",
+      "title": "Best Personal Loan Alternatives: 10 Options to Compare",
+      "url": "https://loanfy.io/blog/best-personal-loan-alternatives/",
+      "status": "pending_deploy_verification",
+      "publicationDate": "2026-07-15",
+      "wordCount": 2352,
+      "serpTarget": "Google US",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison. Search results emphasize lender roundups, comparison tables, APR/fee/eligibility criteria, calculators, and alternative financing options by use case.",
+        "pageTypes": [
+          "best personal loans roundups",
+          "credit union personal loan roundups",
+          "debt consolidation loan roundups",
+          "home equity and HELOC explainers",
+          "personal loan review pages"
+        ],
+        "coveragePatterns": [
+          "top 7-10 ranked options",
+          "best-for labels by borrower profile",
+          "fees/APR/term/eligibility comparisons",
+          "warnings about collateral, fees and repayment discipline",
+          "FAQ sections and methodology notes"
+        ],
+        "gapsUsed": [
+          "compare alternatives before applying rather than ranking lenders only",
+          "match alternatives by borrowing purpose and risk",
+          "include provider payment plans, debt management and earned wage access alongside credit products",
+          "avoid fabricated lender reviews, prices or first-hand testing claims"
+        ]
+      },
+      "sources": [
+        "https://www.wsj.com/buyside/personal-finance/personal-loans/best-personal-loans",
+        "https://www.wsj.com/buyside/personal-finance/personal-loans/best-credit-union-personal-loans",
+        "https://www.wsj.com/buyside/personal-finance/personal-loans/best-debt-consolidation-loans",
+        "https://www.wsj.com/buyside/personal-finance/mortgage/what-is-a-home-equity-line-of-credit",
+        "https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-loan-interest-rate-and-the-apr-en-733/",
+        "https://consumer.ftc.gov/articles/payday-loans",
+        "https://ncua.gov/consumers/credit-union-loans/payday-alternative-loans",
+        "https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-loans"
+      ],
+      "qa": {
+        "build": "passed: npm run build",
+        "editorialSeoReview": "passed: intent, H1, metadata, canonical, schema, links, image, sitemap, blog index, sensitive finance claims",
+        "desktopRender": "passed: local browser, H1/canonical/image/no overflow",
+        "mobileRender": "passed: 390x844 viewport, image loaded, no overflow"
+      }
+    }
+  ]
+}
