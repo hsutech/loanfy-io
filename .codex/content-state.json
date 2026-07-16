@@ -3,7 +3,7 @@
   "company": "Loanfy",
   "market": "USA",
   "language": "English",
-  "lastRun": "2026-07-15",
+  "lastRun": "2026-07-16",
   "items": [
     {
       "keyword": "best personal loan alternatives",
@@ -56,6 +56,55 @@
         "desktopRender": "passed: local browser, H1/canonical/image/no overflow",
         "mobileRender": "passed: 390x844 viewport, image loaded, no overflow",
         "production": "passed: HTTP 200, expected H1, canonical, blog index, sitemap and image on https://loanfy.io/blog/best-personal-loan-alternatives/"
+      }
+    },
+    {
+      "keyword": "best emergency loan options online",
+      "priority": "High",
+      "slug": "best-emergency-loan-options-online",
+      "title": "Best Emergency Loan Options Online: 7 Choices to Compare",
+      "url": "https://loanfy.io/blog/best-emergency-loan-options-online/",
+      "status": "published",
+      "publicationDate": "2026-07-16",
+      "commit": "0d20e77",
+      "verifiedAt": "2026-07-16",
+      "wordCount": 1934,
+      "serpTarget": "Google US",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison. Results emphasize emergency personal loan roundups, fast funding, best-for lender labels, APR/fee/eligibility tables, pros and cons, application steps, alternatives and FAQs.",
+        "pageTypes": [
+          "best emergency personal loan roundups",
+          "emergency loan explainers",
+          "personal loan lender reviews",
+          "bad-credit and same-day funding guides"
+        ],
+        "coveragePatterns": [
+          "top 5-10 options",
+          "comparison tables with APR, loan amount, credit score and funding speed",
+          "warnings about origination fees, payday loans, title loans and repayment strain",
+          "FAQs about same-day funding, credit score and alternatives",
+          "methodology or source notes"
+        ],
+        "gapsUsed": [
+          "rank emergency loan options by borrower situation rather than claiming invented lender testing",
+          "separate online personal loans from provider payment plans, credit unions and payroll advances",
+          "explain speed versus affordability trade-offs before the CTA",
+          "cite official sources for APR, payday loan risk and credit union payday alternative loans"
+        ]
+      },
+      "sources": [
+        "https://www.wsj.com/buyside/personal-finance/personal-loans/best-emergency-loans",
+        "https://www.investopedia.com/emergency-loan-types-eligibility-pros-and-cons-8637206",
+        "https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-loan-interest-rate-and-the-apr-en-733/",
+        "https://www.consumerfinance.gov/ask-cfpb/what-is-a-payday-loan-en-1567/",
+        "https://ncua.gov/consumers/credit-union-loans/payday-alternative-loans"
+      ],
+      "qa": {
+        "build": "production GitHub Actions passed: Deploy to Cloudflare Pages run 29501672923; local npm run build did not complete in the desktop sandbox, but the remote Eleventy build completed successfully",
+        "editorialSeoReview": "passed: intent, originality, H1, title, meta description, canonical, Open Graph, Article schema, FAQ schema, internal links, external sources, image alt, finance claims and canibalization against /emergency-loans/",
+        "desktopRender": "passed: production browser, expected H1/canonical, featured image loaded, no overflow",
+        "mobileRender": "passed: production browser at 390x844, expected H1/canonical, image loaded, no overflow after grid/nav CSS fix",
+        "production": "passed: HTTP 200, expected H1, canonical, CSS cache-busted, blog index link, sitemap entry and image JPEG on https://loanfy.io/blog/best-emergency-loan-options-online/"
       }
     }
   ]
