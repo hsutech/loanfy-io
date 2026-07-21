@@ -3,7 +3,7 @@
   "company": "Loanfy",
   "market": "USA",
   "language": "English",
-  "lastRun": "2026-07-16",
+  "lastRun": "2026-07-21",
   "items": [
     {
       "keyword": "best personal loan alternatives",
@@ -105,6 +105,108 @@
         "desktopRender": "passed: production browser, expected H1/canonical, featured image loaded, no overflow",
         "mobileRender": "passed: production browser at 390x844, expected H1/canonical, image loaded, no overflow after grid/nav CSS fix",
         "production": "passed: HTTP 200, expected H1, canonical, CSS cache-busted, blog index link, sitemap entry and image JPEG on https://loanfy.io/blog/best-emergency-loan-options-online/"
+      }
+    },
+    {
+      "keyword": "best debt consolidation loan alternatives",
+      "priority": "High",
+      "slug": "best-debt-consolidation-loan-alternatives",
+      "title": "Best Debt Consolidation Loan Alternatives: 8 Options to Compare",
+      "url": "https://loanfy.io/blog/best-debt-consolidation-loan-alternatives/",
+      "status": "published",
+      "publicationDate": "2026-07-18",
+      "commit": "17673d4",
+      "verifiedAt": "2026-07-21",
+      "wordCount": 2713,
+      "serpTarget": "Google US",
+      "serpObservations": {
+        "intent": "Commercial BOFU alternatives intent. The live page already published on main covers borrowers comparing debt consolidation loan substitutes before applying.",
+        "pageTypes": [
+          "debt consolidation alternatives guides",
+          "credit counseling explainers",
+          "balance transfer comparisons",
+          "debt relief risk explainers"
+        ],
+        "coveragePatterns": [
+          "ranked alternatives",
+          "APR and fee cautions",
+          "credit counseling and debt management context",
+          "debt settlement scam warnings",
+          "FAQ schema and sources"
+        ],
+        "gapsUsed": [
+          "position alternatives by debt type and risk instead of ranking lenders only",
+          "include counseling and hardship options",
+          "avoid guarantees or fabricated lender reviews"
+        ]
+      },
+      "sources": [
+        "https://www.consumerfinance.gov/ask-cfpb/what-is-credit-counseling-en-1451/",
+        "https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-credit-counseling-and-debt-settlement-debt-consolidation-or-credit-repair-en-1449/",
+        "https://www.ftc.gov/news-events/topics/consumer-finance/debt-relief-credit-repair-scams",
+        "https://www.nfcc.org/faqs-credit-and-debt-counseling/"
+      ],
+      "qa": {
+        "build": "reconciled existing main commit; local npm run build passed on 2026-07-21 while preparing next article",
+        "editorialSeoReview": "reconciled from existing published article: H1, canonical, Article schema, FAQ schema, internal links, external sources and image present",
+        "production": "existing article present in origin/main before this run; not the new article for 2026-07-21"
+      }
+    },
+    {
+      "keyword": "best loan comparison sites",
+      "priority": "High",
+      "slug": "best-loan-comparison-sites",
+      "title": "Best Loan Comparison Sites: 7 Places to Compare Offers",
+      "url": "https://loanfy.io/blog/best-loan-comparison-sites/",
+      "status": "published",
+      "publicationDate": "2026-07-21",
+      "commit": "5eef3f7",
+      "contentCommits": [
+        "ba603d6",
+        "5eef3f7"
+      ],
+      "verifiedAt": "2026-07-21T10:21:00Z",
+      "wordCount": 2033,
+      "serpTarget": "Google US",
+      "serpObservations": {
+        "intent": "Commercial BOFU comparison. Current Google US results mix lender marketplace pages, personal loan roundups, broker/comparison explainers and lender-selection guides.",
+        "pageTypes": [
+          "personal loan marketplace pages",
+          "best personal loans roundups",
+          "personal loan broker explainers",
+          "lender comparison guides",
+          "marketplace review pages"
+        ],
+        "coveragePatterns": [
+          "7-10 options or top-pick tables",
+          "best-for labels by borrower profile",
+          "APR, fee, term and credit-profile guidance",
+          "author/editor/fact-check signals",
+          "table of contents and FAQ sections",
+          "warnings that marketplace/prequalification estimates are not final lender offers"
+        ],
+        "gapsUsed": [
+          "compare site types by use case instead of claiming first-hand lender testing",
+          "separate marketplace estimates from editorial rankings and direct lender offers",
+          "include data/privacy and advance-fee scam cautions",
+          "avoid invented reviews, prices, ratings or guarantees"
+        ]
+      },
+      "sources": [
+        "https://www.lendingtree.com/personal/",
+        "https://www.credible.com/personal-loan/how-to-get-a-credible-personal-loan",
+        "https://www.bankrate.com/loans/personal-loans/how-to-choose-the-best-personal-loan-lender/",
+        "https://www.finder.com/personal-loans/personal-loan-brokers",
+        "https://www.nerdwallet.com/personal-loans",
+        "https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-loan-interest-rate-and-the-apr-en-733/",
+        "https://consumer.ftc.gov/articles/what-know-about-advance-fee-loans"
+      ],
+      "qa": {
+        "build": "passed: npm run build after article creation and after image-ratio fix",
+        "editorialSeoReview": "passed: intent, originality, H1, title, meta description, canonical, Open Graph, Article schema, FAQ schema, links, claims, finance disclaimer, image alt and canibalization against loan option and existing comparison content",
+        "desktopRender": "passed: production browser at 1366x900, expected H1/canonical, CSS cache-busted, image loaded with correct natural ratio, no horizontal overflow",
+        "mobileRender": "passed: production browser at 390x844, expected H1/canonical, image loaded at 347x196 with correct ratio, no horizontal overflow",
+        "production": "passed: Cloudflare workflow 29821782806 succeeded; HTTP 200 article/blog/sitemap/image, expected H1, canonical, blog index and sitemap entry on https://loanfy.io/blog/best-loan-comparison-sites/"
       }
     }
   ]
