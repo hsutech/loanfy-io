@@ -209,5 +209,55 @@
         "production": "passed: Cloudflare workflow 29821782806 succeeded; HTTP 200 article/blog/sitemap/image, expected H1, canonical, blog index and sitemap entry on https://loanfy.io/blog/best-loan-comparison-sites/"
       }
     }
+  ],
+  "extraCampaigns": [
+    {
+      "campaign": "Extra Reddit | loanfy.io",
+      "topic": "How to Research a Business Lender Online: Reviews, Fees, Licenses and Community Feedback",
+      "requiredAnchor": "loans for small businesses",
+      "requiredDestination": "https://www.reddit.com/r/loansforsmallbusiness/",
+      "slug": "how-to-research-a-business-lender-online",
+      "title": "How to Research a Business Lender Online: Reviews, Fees, Licenses and Community Feedback",
+      "url": "https://loanfy.io/blog/how-to-research-a-business-lender-online/",
+      "status": "drafted_pending_verification",
+      "publicationDate": "2026-07-20",
+      "wordCount": null,
+      "serpTarget": "Google US",
+      "serpObservations": {
+        "intent": "Informational and commercial research intent. Current results mix business lender review hubs, startup/business loan rankings, lender-specific review pages and practical lender-choice explainers.",
+        "pageTypes": [
+          "small business lender review hubs",
+          "business loan marketplace and startup loan roundups",
+          "lender-specific review pages",
+          "business lender selection guides"
+        ],
+        "coveragePatterns": [
+          "rate, fee, eligibility and funding-speed comparisons",
+          "review and complaint checks",
+          "warnings about guaranteed approval and upfront fees",
+          "marketplace versus direct-lender distinctions",
+          "limited step-by-step legal identity and data-safety workflow"
+        ],
+        "gapsUsed": [
+          "focus on a lender due-diligence workflow instead of ranking lenders",
+          "separate reviews from verifiable identity, licensing and disclosures",
+          "include contact-channel and personal-data checks before application",
+          "treat community feedback as informal peer discussion, not authority"
+        ]
+      },
+      "sources": [
+        "https://www.sba.gov/funding-programs/loans/lender-match-connects-you-lenders",
+        "https://www.ftc.gov/business-guidance/blog/2021/06/back-business-3-looking-small-business-financing",
+        "https://consumer.ftc.gov/articles/what-know-about-advance-fee-loans",
+        "https://www.nmlsconsumeraccess.org/",
+        "https://www.consumerfinance.gov/complaint/",
+        "https://www.consumerfinance.gov/1071-rule/"
+      ],
+      "qa": {
+        "build": "pending",
+        "editorialSeoReview": "pending",
+        "production": "pending"
+      }
+    }
   ]
 }

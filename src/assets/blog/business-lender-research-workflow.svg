@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941" role="img" aria-labelledby="title desc">
+  <title id="title">Business lender research workflow</title>
+  <desc id="desc">A stylized browser dashboard showing legal identity, fees, licensing, complaints and community feedback checks.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6f8fb"/>
+      <stop offset="1" stop-color="#dde8f4"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#edf3fa"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="28" stdDeviation="28" flood-color="#172033" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect width="1672" height="941" fill="url(#bg)"/>
+  <circle cx="1348" cy="168" r="210" fill="#e7b662" opacity=".24"/>
+  <circle cx="185" cy="776" r="260" fill="#3f6fb6" opacity=".12"/>
+  <g filter="url(#shadow)">
+    <rect x="172" y="118" width="1328" height="705" rx="36" fill="url(#panel)" stroke="#c9d5e4"/>
+    <rect x="172" y="118" width="1328" height="86" rx="36" fill="#172033"/>
+    <circle cx="228" cy="161" r="12" fill="#ef6b64"/>
+    <circle cx="265" cy="161" r="12" fill="#e8b34d"/>
+    <circle cx="302" cy="161" r="12" fill="#63bd7b"/>
+    <rect x="363" y="139" width="728" height="43" rx="21.5" fill="#25344f"/>
+    <text x="393" y="167" fill="#d7dfec" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">lender research checklist</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="236" y="284" fill="#172033" font-size="54" font-weight="800">Research before you apply</text>
+    <text x="240" y="331" fill="#59687c" font-size="25">Identity, terms, licensing, complaints and contact checks belong before an application.</text>
+    <g transform="translate(236 394)">
+      <rect width="374" height="252" rx="26" fill="#ffffff" stroke="#d4deea"/>
+      <rect x="28" y="30" width="76" height="76" rx="20" fill="#dfe9f5"/>
+      <path d="M57 62h44v12H57zm0 25h78v12H57zm0 25h60v12H57z" fill="#3f6fb6"/>
+      <text x="28" y="142" fill="#172033" font-size="30" font-weight="800">Legal identity</text>
+      <text x="28" y="184" fill="#59687c" font-size="21">Match the company name, address, license record and website domain.</text>
+    </g>
+    <g transform="translate(649 394)">
+      <rect width="374" height="252" rx="26" fill="#ffffff" stroke="#d4deea"/>
+      <rect x="28" y="30" width="76" height="76" rx="20" fill="#eaf1e5"/>
+      <path d="M66 48v58M45 69h42a22 22 0 0 1 0 44H43" fill="none" stroke="#5d8f52" stroke-width="12" stroke-linecap="round"/>
+      <text x="28" y="142" fill="#172033" font-size="30" font-weight="800">Total cost</text>
+      <text x="28" y="184" fill="#59687c" font-size="21">Compare disbursed amount, payment frequency, fees and early payoff rules.</text>
+    </g>
+    <g transform="translate(1062 394)">
+      <rect width="374" height="252" rx="26" fill="#ffffff" stroke="#d4deea"/>
+      <rect x="28" y="30" width="76" height="76" rx="20" fill="#fbecd0"/>
+      <path d="M66 48l33 13v25c0 29-20 49-33 56-13-7-33-27-33-56V61z" fill="none" stroke="#d38c26" stroke-width="10" stroke-linejoin="round"/>
+      <text x="28" y="142" fill="#172033" font-size="30" font-weight="800">Risk signals</text>
+      <text x="28" y="184" fill="#59687c" font-size="21">Look for complaint patterns, rushed sales and unclear data practices.</text>
+    </g>
+    <g transform="translate(238 704)">
+      <rect width="1198" height="58" rx="29" fill="#172033"/>
+      <circle cx="54" cy="29" r="15" fill="#63bd7b"/>
+      <text x="88" y="38" fill="#ffffff" font-size="23" font-weight="800">Pause before sharing sensitive business or owner information</text>
+      <text x="872" y="38" fill="#cfd8e8" font-size="20">verify, compare, document</text>
+    </g>
+  </g>
+</svg>
