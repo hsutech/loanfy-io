@@ -3,7 +3,7 @@
   "company": "Loanfy",
   "market": "USA",
   "language": "English",
-  "lastRun": "2026-07-21",
+  "lastRun": "2026-08-04",
   "items": [
     {
       "keyword": "best personal loan alternatives",
@@ -219,9 +219,11 @@
       "slug": "how-to-research-a-business-lender-online",
       "title": "How to Research a Business Lender Online: Reviews, Fees, Licenses and Community Feedback",
       "url": "https://loanfy.io/blog/how-to-research-a-business-lender-online/",
-      "status": "drafted_pending_verification",
+      "status": "published",
       "publicationDate": "2026-07-20",
-      "wordCount": null,
+      "verifiedAt": "2026-08-04T11:15:05Z",
+      "wordCount": 2029,
+      "commit": "2bf1615ea5e88650c1b6a1fb510de321c8eba0b9",
       "serpTarget": "Google US",
       "serpObservations": {
         "intent": "Informational and commercial research intent. Current results mix business lender review hubs, startup/business loan rankings, lender-specific review pages and practical lender-choice explainers.",
@@ -254,9 +256,11 @@
         "https://www.consumerfinance.gov/1071-rule/"
       ],
       "qa": {
-        "build": "pending",
-        "editorialSeoReview": "pending",
-        "production": "pending"
+        "build": "local npm run build started but was stopped after no additional output; prior pushed content is already present on origin/main and production verification passed",
+        "editorialSeoReview": "passed: reconciled existing article for H1, title/meta, canonical, Open Graph image, Article/Breadcrumb/FAQ schema, internal links, external sources, disclaimer, accessibility alt text and no duplicate blog/sitemap slug",
+        "desktopRender": "limited alternative verification: Playwright browser binary unavailable; production HTML/CSS checks show responsive article layout, fluid featured image and no obvious overflow-prone structures",
+        "mobileRender": "limited alternative verification: Playwright browser binary unavailable; CSS switches article layout/nav/visual grids at mobile breakpoints and featured image remains fluid",
+        "production": "passed: custom-domain HTTP 200 for article and image; expected H1 and canonical; article present in blog index and sitemap"
       }
     }
   ]
