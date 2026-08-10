@@ -3,7 +3,7 @@
   "company": "Loanfy",
   "market": "USA",
   "language": "English",
-  "lastRun": "2026-08-04",
+  "lastRun": "2026-08-10",
   "items": [
     {
       "keyword": "best personal loan alternatives",
@@ -207,6 +207,60 @@
         "desktopRender": "passed: production browser at 1366x900, expected H1/canonical, CSS cache-busted, image loaded with correct natural ratio, no horizontal overflow",
         "mobileRender": "passed: production browser at 390x844, expected H1/canonical, image loaded at 347x196 with correct ratio, no horizontal overflow",
         "production": "passed: Cloudflare workflow 29821782806 succeeded; HTTP 200 article/blog/sitemap/image, expected H1, canonical, blog index and sitemap entry on https://loanfy.io/blog/best-loan-comparison-sites/"
+      }
+    },
+    {
+      "keyword": "best small personal loans",
+      "priority": "High",
+      "slug": "best-small-personal-loans",
+      "title": "Best Small Personal Loans: 7 Options to Compare",
+      "url": "https://loanfy.io/blog/best-small-personal-loans/",
+      "status": "published",
+      "publicationDate": "2026-08-10",
+      "commit": "27cebf6",
+      "verifiedAt": "2026-08-10T09:47:30Z",
+      "wordCount": 2183,
+      "serpTarget": "Google US",
+      "serpObservations": {
+        "intent": "Commercial BOFU listicle/comparison. Current results emphasize small personal loan lender roundups, minimum loan amounts, APR/fee tables, credit score fit, funding speed, author/editor review signals, methodology, FAQs and alternatives.",
+        "pageTypes": [
+          "best small personal loan roundups",
+          "loan marketplace small-loan pages",
+          "small personal loans for bad-credit tables",
+          "consumer finance explainers about minimum loan amounts",
+          "official small-dollar/payday alternative loan guidance"
+        ],
+        "coveragePatterns": [
+          "5-10 options or lenders with best-for labels",
+          "comparison tables with loan amount, APR, credit score and fees",
+          "table of contents and FAQ sections",
+          "author, editor, fact-check and methodology signals",
+          "warnings about payday loans, upfront fees and borrowing more than needed"
+        ],
+        "gapsUsed": [
+          "compare small-loan routes by use case instead of claiming first-hand lender testing",
+          "separate credit union PALs, bank loans, online lenders and marketplaces",
+          "emphasize lender minimums so borrowers do not overborrow for small needs",
+          "ground sensitive claims in CFPB, NCUA, FTC and major finance publisher sources"
+        ]
+      },
+      "sources": [
+        "https://www.forbes.com/advisor/personal-loans/best-small-personal-loans/",
+        "https://www.credible.com/personal-loan/small-loans",
+        "https://wallethub.com/personal-loans/small-personal-loans",
+        "https://www.consumeraffairs.com/finance/best-small-personal-loans.html",
+        "https://www.experian.com/blogs/ask-experian/what-is-smallest-personal-loan-i-can-get/",
+        "https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-loan-interest-rate-and-the-apr-en-733/",
+        "https://ncua.gov/support-services/access",
+        "https://consumer.ftc.gov/articles/what-know-about-advance-fee-loans",
+        "https://www.consumerfinance.gov/ask-cfpb/what-is-a-payday-loan-en-1567/"
+      ],
+      "qa": {
+        "build": "passed: npm run build; GitHub Actions Deploy to Cloudflare Pages run 31376007463 completed successfully",
+        "editorialSeoReview": "passed: intent, originality, H1, title, meta description, canonical, Open Graph, Article schema, FAQ schema, links, claims, finance disclaimer, image alt, accessibility and canibalization against /personal-loans/, /installment-loans/ and existing comparison articles",
+        "desktopRender": "passed: production browser at 1366x900, expected H1/canonical, featured image loaded, no horizontal overflow",
+        "mobileRender": "passed: production browser at 390x844, expected H1/canonical, image loaded at 347x196, no horizontal overflow",
+        "production": "passed on third verification attempt: HTTP 200 article, expected H1, canonical, Article/FAQ schema, blog index entry, sitemap entry and image JPEG on https://loanfy.io/blog/best-small-personal-loans/"
       }
     }
   ],
