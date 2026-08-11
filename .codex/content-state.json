@@ -3,7 +3,7 @@
   "company": "Loanfy",
   "market": "USA",
   "language": "English",
-  "lastRun": "2026-08-10",
+  "lastRun": "2026-08-11",
   "items": [
     {
       "keyword": "best personal loan alternatives",
@@ -261,6 +261,63 @@
         "desktopRender": "passed: production browser at 1366x900, expected H1/canonical, featured image loaded, no horizontal overflow",
         "mobileRender": "passed: production browser at 390x844, expected H1/canonical, image loaded at 347x196, no horizontal overflow",
         "production": "passed on third verification attempt: HTTP 200 article, expected H1, canonical, Article/FAQ schema, blog index entry, sitemap entry and image JPEG on https://loanfy.io/blog/best-small-personal-loans/"
+      }
+    },
+    {
+      "keyword": "best bad credit loan alternatives",
+      "priority": "High",
+      "slug": "best-bad-credit-loan-alternatives",
+      "title": "Best Bad Credit Loan Alternatives: 8 Options to Compare",
+      "url": "https://loanfy.io/blog/best-bad-credit-loan-alternatives/",
+      "status": "published",
+      "publicationDate": "2026-08-11",
+      "commit": "8595660",
+      "contentCommits": [
+        "5917095",
+        "8595660"
+      ],
+      "verifiedAt": "2026-08-11T09:53:45Z",
+      "wordCount": 2326,
+      "serpTarget": "Google US",
+      "serpObservations": {
+        "intent": "Commercial BOFU alternatives/listicle intent. Current results mix bad-credit loan alternatives pages with bad-credit personal loan lender roundups and payday alternative loan explainers.",
+        "pageTypes": [
+          "bad-credit loan alternatives listicles",
+          "bad-credit personal loan lender roundups",
+          "loan marketplace bad-credit pages",
+          "payday alternative loan explainers",
+          "official payday and online payday loan consumer guidance"
+        ],
+        "coveragePatterns": [
+          "7-10 options or lenders with best-for labels",
+          "comparison tables and table of contents",
+          "APR, loan amount, minimum credit score, fees and funding speed",
+          "author/editor/methodology signals on finance publisher pages",
+          "warnings about payday loans, guaranteed approval claims, upfront fees and data sharing"
+        ],
+        "gapsUsed": [
+          "compare alternatives by borrower situation rather than ranking lenders from invented first-hand testing",
+          "separate PALs, payment plans, secured loans, co-borrowers, counseling and pay advances",
+          "avoid fabricated lender ratings, reviews, prices or approval claims",
+          "ground sensitive payday and online-lead-generator claims in CFPB and NCUA consumer sources"
+        ]
+      },
+      "sources": [
+        "https://www.bankrate.com/loans/personal-loans/alternatives-to-bad-credit-loans/",
+        "https://www.forbes.com/advisor/personal-loans/bad-credit-loans/",
+        "https://www.finder.com/personal-loans/best-bad-credit-personal-loans",
+        "https://www.credible.com/personal-loan/bad-credit-loans",
+        "https://www.experian.com/blogs/ask-experian/do-you-need-good-credit-for-payday-alternative-loan/",
+        "https://mycreditunion.gov/manage-your-money/consumer-loans-credit-cards/payday-alternative-loans",
+        "https://www.consumerfinance.gov/ask-cfpb/what-is-a-payday-loan-en-1567/",
+        "https://www.consumerfinance.gov/ask-cfpb/what-should-i-consider-if-im-thinking-about-getting-a-payday-loan-online-en-1617/"
+      ],
+      "qa": {
+        "build": "passed: npm run build; GitHub Actions Deploy to Cloudflare Pages runs 31478836487 and 31479351351 completed successfully",
+        "editorialSeoReview": "passed: intent, originality, H1, title, meta description, canonical, Open Graph, Article schema, FAQ schema, internal links, four external article source links, claims, finance disclaimer, image alt, accessibility and canibalization against /bad-credit-loans/ and existing loan-alternative articles",
+        "desktopRender": "passed: production Chrome headless at 1366x900, expected H1/canonical, featured image loaded, no visible overflow",
+        "mobileRender": "passed: production Chrome CDP emulation at 390x844, expected H1/canonical, CSS cache-busted to loanfy-redesign-20260811-1, featured image loaded at 1672x941, document scrollWidth equals clientWidth 390",
+        "production": "passed on final verification: HTTP 200 article, expected H1, canonical, Article/FAQ schema, blog index entry, sitemap entry and image JPEG on https://loanfy.io/blog/best-bad-credit-loan-alternatives/"
       }
     }
   ],
