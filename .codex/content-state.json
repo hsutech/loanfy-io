@@ -3,7 +3,7 @@
   "company": "Loanfy",
   "market": "USA",
   "language": "English",
-  "lastRun": "2026-08-11",
+  "lastRun": "2026-08-15",
   "items": [
     {
       "keyword": "best personal loan alternatives",
@@ -318,6 +318,61 @@
         "desktopRender": "passed: production Chrome headless at 1366x900, expected H1/canonical, featured image loaded, no visible overflow",
         "mobileRender": "passed: production Chrome CDP emulation at 390x844, expected H1/canonical, CSS cache-busted to loanfy-redesign-20260811-1, featured image loaded at 1672x941, document scrollWidth equals clientWidth 390",
         "production": "passed on final verification: HTTP 200 article, expected H1, canonical, Article/FAQ schema, blog index entry, sitemap entry and image JPEG on https://loanfy.io/blog/best-bad-credit-loan-alternatives/"
+      }
+    },
+    {
+      "keyword": "best credit union loan alternatives",
+      "priority": "High",
+      "slug": "best-credit-union-loan-alternatives",
+      "title": "Best Credit Union Loan Alternatives: 8 Options to Compare",
+      "url": "https://loanfy.io/blog/best-credit-union-loan-alternatives/",
+      "status": "published",
+      "publicationDate": "2026-08-15",
+      "commit": "beb037b",
+      "contentCommits": [
+        "beb037b"
+      ],
+      "verifiedAt": "2026-08-15T11:37:03Z",
+      "wordCount": 1975,
+      "serpTarget": "Google US",
+      "serpObservations": {
+        "intent": "Commercial BOFU alternatives/comparison intent. Current results emphasize credit union personal loan rankings and comparison pages, with related alternatives coverage around online lenders, banks, marketplaces, secured loans and payday alternative loans.",
+        "pageTypes": [
+          "credit union personal loan roundups",
+          "personal loan lender comparison pages",
+          "credit union loan explainers",
+          "official payday alternative loan guidance",
+          "consumer finance scam and APR explainers"
+        ],
+        "coveragePatterns": [
+          "7-10 ranked options or lender lists",
+          "comparison tables with APR, fees, membership, funding speed and eligibility",
+          "author/editor and methodology signals on finance publisher pages",
+          "table of contents and FAQs",
+          "warnings around payday loans, upfront fees, membership limits and final lender disclosures"
+        ],
+        "gapsUsed": [
+          "compare alternatives by borrower situation rather than claiming first-hand lender testing",
+          "separate membership, speed, cost, collateral and debt-pressure problems",
+          "avoid fabricated ratings, reviews, prices, approval odds or guaranteed outcomes",
+          "ground APR, credit union PAL and advance-fee scam claims in CFPB, NCUA/MyCreditUnion.gov and FTC sources"
+        ]
+      },
+      "sources": [
+        "https://www.forbes.com/advisor/personal-loans/best-credit-union-personal-loans/",
+        "https://www.lendingtree.com/personal/best-personal-loans-from-a-credit-union/",
+        "https://www.bankrate.com/loans/personal-loans/credit-unions-offering-personal-loans/",
+        "https://mycreditunion.gov/manage-your-money/consumer-loans-credit-cards/payday-alternative-loans",
+        "https://ncua.gov/regulation-supervision/letters-credit-unions-other-guidance/permissible-loan-interest-rate-ceiling-extended-0",
+        "https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-loan-interest-rate-and-the-apr-en-733/",
+        "https://consumer.ftc.gov/articles/what-know-about-advance-fee-loans"
+      ],
+      "qa": {
+        "build": "passed: local npm run build; GitHub Actions Deploy to Cloudflare Pages run 31882330309 completed successfully, with expected project-exists warning on the create step and successful deploy step",
+        "editorialSeoReview": "passed: intent, originality, H1, title, meta description, canonical, Open Graph, Article schema, FAQ schema, internal links, external sources, claims, finance disclaimer, image alt, accessibility and canibalization against /loan-options/, /personal-loans/, /installment-loans/, /bad-credit-loans/ and existing loan-alternative articles",
+        "desktopRender": "limited alternative verification: no Playwright/Puppeteer/Chrome or browser MCP exposed; production HTML/CSS checks show desktop two-column article layout, expected H1/canonical, featured image reference and fluid global image rule",
+        "mobileRender": "limited alternative verification: no browser runtime exposed; production HTML/CSS checks show viewport meta, mobile breakpoints at 980px/580px, single-column article layout, nav overflow handling, fluid images and horizontally scrollable comparison table",
+        "production": "passed on second live verification attempt: custom-domain HTTP 200 article with expected H1, canonical, 2026-08-15 Article/FAQ schema, blog index entry, sitemap entry and image JPEG at https://loanfy.io/blog/best-credit-union-loan-alternatives/"
       }
     }
   ],
