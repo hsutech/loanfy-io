@@ -3,7 +3,7 @@
   "company": "Loanfy",
   "market": "USA",
   "language": "English",
-  "lastRun": "2026-08-15",
+  "lastRun": "2026-08-16",
   "items": [
     {
       "keyword": "best personal loan alternatives",
@@ -373,6 +373,65 @@
         "desktopRender": "limited alternative verification: no Playwright/Puppeteer/Chrome or browser MCP exposed; production HTML/CSS checks show desktop two-column article layout, expected H1/canonical, featured image reference and fluid global image rule",
         "mobileRender": "limited alternative verification: no browser runtime exposed; production HTML/CSS checks show viewport meta, mobile breakpoints at 980px/580px, single-column article layout, nav overflow handling, fluid images and horizontally scrollable comparison table",
         "production": "passed on second live verification attempt: custom-domain HTTP 200 article with expected H1, canonical, 2026-08-15 Article/FAQ schema, blog index entry, sitemap entry and image JPEG at https://loanfy.io/blog/best-credit-union-loan-alternatives/"
+      }
+    },
+    {
+      "keyword": "best same day loan alternatives",
+      "priority": "High",
+      "slug": "best-same-day-loan-alternatives",
+      "title": "Best Same-Day Loan Alternatives: 8 Options to Compare",
+      "url": "https://loanfy.io/blog/best-same-day-loan-alternatives/",
+      "status": "published",
+      "publicationDate": "2026-08-16",
+      "commit": "433950a",
+      "contentCommits": [
+        "433950a"
+      ],
+      "verifiedAt": "2026-08-16T09:46:20Z",
+      "wordCount": 2020,
+      "serpTarget": "Google US",
+      "serpObservations": {
+        "intent": "Commercial BOFU urgent-comparison intent. Current results mix same-day personal loan rankings, same-day loan explainers, cash advance app roundups and payday loan alternative guides.",
+        "pageTypes": [
+          "same-day personal loan lender roundups",
+          "same-day loan explainers",
+          "cash advance app comparison pages",
+          "payday loan alternative listicles",
+          "official payday loan and advance-fee scam guidance"
+        ],
+        "coveragePatterns": [
+          "ranked options or best-for labels",
+          "funding-speed, APR, fee, loan amount and credit-profile comparisons",
+          "author/editor/review and methodology signals on finance publisher pages",
+          "table of contents, quick answer blocks and FAQs",
+          "warnings about payday loans, lead generators, upfront fees, repayment timing and data-sharing risk"
+        ],
+        "gapsUsed": [
+          "compare alternatives by urgent bill situation rather than claiming first-hand lender testing",
+          "separate true same-day cash from bill negotiation, employer advances, PALs and local assistance",
+          "avoid fabricated ratings, lender reviews, prices, approval odds or guaranteed funding claims",
+          "ground payday, lead-generator, PAL and advance-fee warnings in CFPB, MyCreditUnion.gov, FTC and 211 sources"
+        ]
+      },
+      "sources": [
+        "https://www.credible.com/personal-loan/same-day-loans",
+        "https://www.experian.com/blogs/ask-experian/how-do-same-day-loans-work/",
+        "https://www.nerdwallet.com/personal-loans/learn/how-to-get-a-quick-loan",
+        "https://www.finder.com/cash-advance-apps/same-day-cash-advance-apps",
+        "https://www.experian.com/blogs/ask-experian/payday-loan-alternatives/",
+        "https://mycreditunion.gov/manage-your-money/consumer-loans-credit-cards/payday-alternative-loans",
+        "https://www.consumerfinance.gov/ask-cfpb/what-is-a-payday-loan-en-1567/",
+        "https://www.consumerfinance.gov/ask-cfpb/should-i-get-a-payday-loan-if-i-need-money-now-en-1583/",
+        "https://www.consumerfinance.gov/ask-cfpb/what-should-i-consider-if-im-thinking-about-getting-a-payday-loan-online-en-1617/",
+        "https://consumer.ftc.gov/articles/what-know-about-advance-fee-loans",
+        "https://www.211.org/get-help/i-need-help-paying-my-bills"
+      ],
+      "qa": {
+        "build": "passed: local npm run build; GitHub Actions Deploy to Cloudflare Pages run 31939788449 completed successfully",
+        "editorialSeoReview": "passed: intent, originality, H1, title, meta description, canonical, Open Graph, Article schema, FAQ schema, internal links, external sources, claims, finance disclaimer, image alt, accessibility and canibalization against /emergency-loans/, /personal-loans/, /installment-loans/, /bad-credit-loans/ and existing same-day/emergency/small-dollar articles",
+        "desktopRender": "passed: production Chrome CDP at 1366x900, expected H1/canonical, featured image loaded at natural size 1672x941, document scrollWidth equals clientWidth 1366",
+        "mobileRender": "passed: production Chrome CDP at 390x844, expected H1/canonical, featured image loaded at natural size 1672x941, document scrollWidth equals clientWidth 390",
+        "production": "passed on first live verification attempt: custom-domain HTTP 200 article with expected H1, canonical, Article/FAQ schema, blog index entry, sitemap entry and image JPEG at https://loanfy.io/blog/best-same-day-loan-alternatives/"
       }
     }
   ],
