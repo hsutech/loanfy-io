@@ -1,0 +1,90 @@
+{
+  "article": {
+    "id": "loanfy-io",
+    "clientId": "mca-discussion",
+    "domain": "loanfy.io",
+    "project": "loanfy-io",
+    "repository": "https://github.com/hsutech/loanfy-io",
+    "title": "How to Compare Merchant Cash Advance Offers Online",
+    "slug": "compare-merchant-cash-advance-offers-online",
+    "route": "/blog/compare-merchant-cash-advance-offers-online/",
+    "description": "Audit digital MCA offers for net proceeds, factor rates, fees, collection schedules and missing terms.",
+    "author": "Loanfy Editorial Team",
+    "language": "en",
+    "market": "US; international startup perspective for Al Wadyat",
+    "date": "2026-10-17",
+    "sourceFile": "content/mca-risks-2026-10-17/loanfy-io.md",
+    "artifactDirectory": "dist",
+    "state": "research_complete",
+    "wordTarget": [
+      1300,
+      1800
+    ],
+    "origin": "https://loanfy.io",
+    "keyword": "merchant cash advance",
+    "type": "guide",
+    "angle": "Audit digital MCA offers for net proceeds, factor rates, fees, collection schedules and missing terms."
+  },
+  "checked_at": "2026-10-17",
+  "serp": {
+    "patterns": [
+      "Factor rates versus APR",
+      "Repayment pressure and alternatives",
+      "Forum recommendations mix anecdotes with sales claims"
+    ],
+    "gap": "Audit digital MCA offers for net proceeds, factor rates, fees, collection schedules and missing terms."
+  },
+  "sources": [
+    {
+      "url": "https://www.nysenate.gov/legislation/laws/FIS/803",
+      "kind": "primary source",
+      "context": "annualized comparison. A calculator that turns the factor into “25% APR” without a schedule is not answering the same question.\n\nNew York's [sales-based financing disclosure statute](https://www.nysenate.gov/legislation/laws/FIS/803) addresses estimated APR, disbursement and payment disclosures for covered offers. Its scope and exceptions matter; it is not a un"
+    },
+    {
+      "url": "https://consumer.ftc.gov/consumer-alerts/2020/08/small-businesses-targeted-unauthorized-withdrawals",
+      "kind": "primary source",
+      "context": "message. If an authentication flow looks unfamiliar, contact the bank or service through a channel you already trust.\n\nThe FTC's account of [unauthorized business-account withdrawals](https://consumer.ftc.gov/consumer-alerts/2020/08/small-businesses-targeted-unauthorized-withdrawals) concerns a specific case. It is a reminder to verify permissions and review activity, not evidence that every bank-connected offe"
+    },
+    {
+      "url": "https://www.reddit.com/r/loansforsmallbusiness/comments/1synzlv/has_anyone_used_a_merchant_cash_advance_and_lived/",
+      "kind": "unverified discussion",
+      "context": "than assuming every form of business finance can be compared using one percentage.\n\n## Use community research to challenge the interface\n\nA [merchant cash advance comparison discussion](https://www.reddit.com/r/loansforsmallbusiness/comments/1synzlv/has_anyone_used_a_merchant_cash_advance_and_lived/) may suggest questions a portal does not answer. Comments are unverified personal accounts, not a controlled comparison or an endo"
+    }
+  ],
+  "claims": {
+    "verified": [
+      "Primary-source content checked on drafting date"
+    ],
+    "external_observations": [
+      "Reddit is anecdotal"
+    ],
+    "editorial_inferences": [
+      "Cash calendar and unit-economics tests",
+      "Hypothetical arithmetic explicitly labeled"
+    ],
+    "firsthand_evidence": []
+  },
+  "must_not_claim": [
+    "All MCAs are scams",
+    "Guaranteed approval or savings",
+    "Reddit stories are verified",
+    "Al Wadyat supplies US MCAs",
+    "Historical organizations are currently operating"
+  ],
+  "brief": {
+    "intent": "Informational decision aid",
+    "angle": "Audit digital MCA offers for net proceeds, factor rates, fees, collection schedules and missing terms.",
+    "images": "No invented or generic choosing graphic; retain native editorial presentation",
+    "disclosure": "General education, hypothetical examples, no individual financial/legal advice; US references not UAE law."
+  },
+  "internalLinks": [
+    {
+      "label": "digital application checklist",
+      "url": "/blog/digital-small-business-loan-application-checklist/"
+    },
+    {
+      "label": "comparing offers beyond the rate",
+      "url": "/blog/how-to-compare-loan-offers-without-focusing-only-on-rate/"
+    }
+  ]
+}
